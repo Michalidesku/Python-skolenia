@@ -1,8 +1,9 @@
 # Pythons for loops
 
 
-´´´Priklady pre for loop
+Priklady pre for loop
 
+```python
 nums = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 print(nums[0])
@@ -16,3 +17,4 @@ for i in nums:
         print(e, end=' ')
     
     print()
+```
