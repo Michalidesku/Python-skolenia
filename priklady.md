@@ -1,7 +1,7 @@
 # Pythons for loops
 
 
-Priklady pre for loop
+´´´Priklady pre for loop
 
 nums = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
