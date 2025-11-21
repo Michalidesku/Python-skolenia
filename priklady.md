@@ -1,4 +1,4 @@
-#Pythons for loops
+# Pythons for loops
 
 
 Priklady pre for loop
