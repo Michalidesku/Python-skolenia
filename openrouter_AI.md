@@ -1,4 +1,3 @@
-
 # OPEN ROUTER API model
 
 from openai import OpenAI
@@ -41,6 +40,5 @@ response2 = client.chat.completions.create(
   messages=messages,
   extra_body={"reasoning": {"enabled": True}}
 )
-
 
 print(response2.choices[0].message.content)
