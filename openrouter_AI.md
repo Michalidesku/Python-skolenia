@@ -1,6 +1,7 @@
 # OPEN ROUTER API model
 
-from openai import OpenAI
+
+```from openai import OpenAI
 import os
 
 client = OpenAI(
@@ -42,3 +43,8 @@ response2 = client.chat.completions.create(
 )
 
 print(response2.choices[0].message.content)
+
+
+```
+
+## podtitulok
