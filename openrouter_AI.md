@@ -1,3 +1,6 @@
+
+# OPEN ROUTER API model
+
 from openai import OpenAI
 import os
 
